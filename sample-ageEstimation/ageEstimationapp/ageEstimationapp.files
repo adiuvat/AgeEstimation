@@ -1,0 +1,15 @@
+age_estimation/age_estimation.cpp
+age_estimation/age_estimation.h
+camera/Mind_camera.cpp
+camera/Mind_camera.h
+common/include/age_estimation_params.h
+face_detection/face_detection.cpp
+face_detection/face_detection.h
+face_feature_mask/face_feature_mask.cpp
+face_feature_mask/face_feature_mask.h
+face_feature_mask/face_feature_train_mean.h
+face_feature_mask/face_feature_train_std.h
+main.cpp
+main.h
+post_process/post_process.cpp
+post_process/post_process.h
